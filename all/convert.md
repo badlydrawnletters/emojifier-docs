@@ -1,10 +1,10 @@
-# Convertohno
+# Convert
 ---
 ### Description
-This command is used to convert text into OhNo letter emojis
+This command is used to convert text into badly drawn letter emojis
 ### Usage
 ```
-!!convertohno <text>
+!!convert <text>
 ```
 ### Permission Required
 Anyone can use this command, unless they are blacklisted globally
