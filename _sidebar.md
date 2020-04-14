@@ -24,12 +24,6 @@
 
 ---
 
-**ADMIN COMMANDS**
-[Setup](admin/setup.md)
-[Config](admin/config.md)
-
----
-
 **SUPPORTING THE BOT**
 [Info](supporting/info.md)
 
