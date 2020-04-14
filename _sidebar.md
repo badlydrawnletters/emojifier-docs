@@ -4,7 +4,10 @@
 ---
 
 **PUBLIC COMMANDS**
-[Suggest](all/suggest.md)
+[Convert](all/convert.md)
+[Convert OhNo](all/convertohno.md)
+[Convert Bless](all/convertbless.md)
+[Convert Dancing](all/convertdancing.md)
 [Help](all/help.md)
 [Ping](all/ping.md)
 [Support](all/support.md)
@@ -12,28 +15,11 @@
 [Stats](all/stats.md)
 [Vote](all/vote.md)
 [Verify](all/verify.md)
-[Notify](all/notify.md)
 
 ---
 
 **STAFF COMMANDS**
-[Approve](staff/approve.md)
-[Deny](staff/deny.md)
-[Silentdeny](staff/silentdeny.md)
-[Delete](staff/delete.md)
-[Massapprove](staff/massapprove.md)
-[Massdeny](staff/massdeny.md)
-[Massdelete](staff/massdelete.md)
-[Listqueue](staff/listqueue.md)
-[Info](staff/info.md)
-[Mark](staff/mark.md)
-[Attach](staff/attach.md)
-[Removeattachment](staff/removeattachment.md)
-[Comment](staff/comment.md)
-[Acomment](staff/acomment.md)
-[Deletecomment](staff/deletecomment.md)
-[Blacklist](staff/blacklist.md)
-[Unblacklist](staff/unblacklist.md)
+[Set Prefix](staff/setprefix.md)
 
 ---
 
