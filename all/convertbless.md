@@ -1,4 +1,4 @@
-# Convert Bless
+# Convertbless
 ---
 ### Description
 This command is used to convert text into Bless letter emojis
@@ -8,3 +8,5 @@ This command is used to convert text into Bless letter emojis
 ```
 ### Permission Required
 Anyone can use this command, unless they are blacklisted globally
+
+?> You must have an active [Discord Nitro](https://discordapp.com/nitro) subscription to use these emojis in other servers

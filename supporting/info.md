@@ -23,6 +23,7 @@
 # Discord Bot List
 ---
 [![DBL widget](https://discordbotlist.com/bots/673994042450903089/widget)](https://discordbotlist.com/bots/673994042450903089)
+
 ### [Click here to vote!](https://discordbotlist.com/bots/673994042450903089/upvote)
 
 #### **Bots For Discord**
