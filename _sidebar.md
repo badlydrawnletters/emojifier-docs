@@ -1,5 +1,6 @@
 [Badly Made Bot Docs](/)
 [Getting started](getting-started.md)
+[Bot and Website status](status.md)
 
 ---
 
