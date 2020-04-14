@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover">
+    <title>Badly Made Bot Docs</title>
+    <link rel="icon" type="image/ico" href="https://badlydrawnletters.js.org/images/favicon.ico">
+    <meta property="og:site_name" content="Badly Made Bot">
+    <meta property="twitter:card" content="summary_large_image">
+    <meta name="description" content="The official documentation for the Discord bot Badly Made Bot">
+    <meta name="theme-color" content="#7289da">
+    <meta property="og:title" content="Badly Made Docs">
+    <meta property="og:description" content="The official documentation for the Discord bot Badly Made Bot">
+    <meta property="og:url" content="https://suggester.js.org">
+    <meta property="og:image" content="https://suggester.js.org/images/logo.png">
+    <meta property="og:image:type" content="image/png">
+
+    <!-- Theme -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+
+    <!-- Custom theme styles -->
+    <style>
+      :root {
+        --theme-color: blue
+        --base-background-color: #ffffff;
+        --code-theme-background: #183055;
+        --code-inline-color: #ffffff;
+        --code-inline-background: #183055;
+        --code-theme-text: #ffffff;
+        --link-color: #758ddc;
+        --link-color--hover: #758ddc;
+        --link-text-decoration: ;
+        --link-text-decoration--hover: underline;
+        --base-font-size: 16px;
+        --theme-color: dark;
+      }
+   </style>
+
+
+
+</head>
+
+<body>
+    <div id="app"></div>
+    <script>
+        // Docsify
+        window.$docsify = {
+            // GENERAL
+            // -----------------------------------------------------------------
+            name: 'Badly Drawn Letters',
+            homepage: 'home.md',
+            logo: 'https://cdn.glitch.com/55e919ff-bec9-42fb-9fa6-36af40d10af7%2FBDL_wc.png?v=1586802614454',
+            loadSidebar: true,
+            loadNavbar: true,
+            auto2top: true,
+            maxLevel: 3,
+            alias: {
+              '/.*/_sidebar.md': '_sidebar.md'
+            },
+            // PLUGINS
+            // -----------------------------------------------------------------
+            executeScript: true,
+            ga    : 'UA-100100910-3',
+            search: {
+                depth      : 3,
+                noData     : 'No results!',
+                placeholder: 'Search...'
+            }
+        };
+    </script>
+    <script src="assets/js/main.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code@2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-pagination@2/dist/docsify-pagination.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/external-script.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/ga.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+</body>
+</html>
