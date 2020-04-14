@@ -1,10 +1,10 @@
 # Invite
 ---
 ### Description
-This command is used to show the link to [invite the bot to your server](https://discordapp.com/oauth2/authorize?client_id=564426594144354315&scope=bot&permissions=67497025).
+This command is used to show the link to [invite the bot to your server](https://discordapp.com/oauth2/authorize?client_id=673994042450903089&scope=bot&permissions=347200).
 ### Usage
 ```
-.invite
+!!invite
 ```
 ### Permission Required
-Anyone can use this command, unless they are blacklisted in the server or globally.
+Anyone can use this command, unless they are blacklisted globally.

@@ -1,0 +1,11 @@
+# Convert
+---
+### Description
+This command is used to convert text into badly drawn letter emojis
+### Usage
+```
+!!convert <text>
+```
+### Permission Required
+Anyone can use this command, unless they are blacklisted globally
+?> All **Usage** sections on these docs will assume that the command prefix is the default `!!` prefix that is set when the bot is added to a server. The `setprefix` command gives the option of changing the prefix, and if your server's prefix has been changed you should replace `!!` with that prefix.
