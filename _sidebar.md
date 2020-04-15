@@ -10,6 +10,8 @@
 [Convert OhNo](all/convertohno.md)
 [Convert Bless](all/convertbless.md)
 [Convert Dancing](all/convertdancing.md)
+[Convert Clap](all/convertclap.md)
+[Convert Heart](all/convertheart.md)
 [Help](all/help.md)
 [Ping](all/ping.md)
 [Support](all/support.md)
