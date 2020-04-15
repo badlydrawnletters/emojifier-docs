@@ -13,6 +13,7 @@
 [Convert Doggo](all/convertdoggo.md)
 [Convert Clap](all/convertclap.md)
 [Convert Heart](all/convertheart.md)
+[Convert Ghost](all/convertghost.md)
 [Help](all/help.md)
 [Ping](all/ping.md)
 [Invite](all/invite.md)
