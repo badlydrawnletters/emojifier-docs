@@ -5,6 +5,7 @@
 ---
 
 **PUBLIC COMMANDS**
+[Bug Report](all/bugreport.md)
 [Convert](all/convert.md)
 [Convert OhNo](all/convertohno.md)
 [Convert Bless](all/convertbless.md)
@@ -14,6 +15,7 @@
 [Support](all/support.md)
 [Invite](all/invite.md)
 [Stats](all/stats.md)
+[Suggest](all/suggest.md)
 [Vote](all/vote.md)
 [Verify](all/verify.md)
 
