@@ -8,4 +8,4 @@ This command is used to check the stats of the bot such as, response time, and g
 ```
 
 ### Permission Required
-Anyone can use this command, unless they are globally.
+Anyone can use this command, unless they are globally blacklisted.
