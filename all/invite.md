@@ -1,7 +1,7 @@
 # Invite
 ---
 ### Description
-This command is used to show the link to [invite the bot to your server](https://discordapp.com/oauth2/authorize?client_id=673994042450903089&scope=bot&permissions=347200).
+This command is used to show the link to the support server and to [invite the bot to your server](https://discordapp.com/oauth2/authorize?client_id=673994042450903089&scope=bot&permissions=347200).
 ### Usage
 ```
 !!invite
