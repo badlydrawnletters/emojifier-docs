@@ -1,7 +1,7 @@
 # Support
 ---
 ### Description
-This command is used to show the invite link to the support server.
+This command is used to show the invite link to the bots support server.
 ### Usage
 ```
 !!support
