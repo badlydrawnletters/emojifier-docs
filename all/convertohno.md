@@ -1,6 +1,5 @@
 # Convertohno
 ---
-!> The developer team is aware of the spaces not working properly and are working on a fix
 ### Description
 This command is used to convert text into OhNo letter emojis
 ### Usage
