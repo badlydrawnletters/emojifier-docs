@@ -1,6 +1,6 @@
 # Badly Made Bot {docsify-ignore-all}
 ---
-[![Bot Status](https://img.shields.io/uptimerobot/status/m784740710-88d5e112b2d1dfef7cc577c0?label=Bot%20Status&style=for-the-badge)](https://stats.uptimerobot.com/kwLQEhnkg1) [![Bot uptime (7 days)](https://img.shields.io/uptimerobot/ratio/7/m784740710-88d5e112b2d1dfef7cc577c0?label=Uptime%20last%207%20days&style=for-the-badge)](https://stats.uptimerobot.com/kwLQEhnkg1) [![Bot uptime (30 days)](https://img.shields.io/uptimerobot/ratio/m784740710-88d5e112b2d1dfef7cc577c0?label=Uptime%20last%2030%20days&style=for-the-badge)](https://stats.uptimerobot.com/kwLQEhnkg1)
+[![Status](https://top.gg/api/widget/status/673994042450903089.svg) ![Servers](https://top.gg/api/widget/servers/673994042450903089.svg) ![Upvotes](https://top.gg/api/widget/upvotes/673994042450903089.svg)](https://top.gg/bot/673994042450903089)
 
 Badly Made Bot, a Discord bot that focuses on enhancing a users chat experience. We have many commands to help make your chatting experience fun and enjoyable.
 
