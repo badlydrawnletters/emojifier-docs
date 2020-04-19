@@ -46,13 +46,6 @@
 [![Glenn bot list widget](https://glennbotlist.xyz/bot/673994042450903089/widget)](https://glennbotlist.xyz/bot/673994042450903089)
 ### [Click here to vote!](https://glennbotlist.xyz/bot/673994042450903089/vote)
 
-#### **Divine Discord Bot List**
-
-# Divine Discord Bot List
----
-[![Divine Discord Bot List widget](https://divinediscordbots.com/api/widget/673994042450903089.svg)](https://divinediscordbots.com/bot/673994042450903089)
-### [Click here to vote!](https://divinediscordbots.com/bot/673994042450903089/vote)
-
 #### **Bots on Discord**
 
 # Bots on Discord
