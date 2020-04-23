@@ -1,9 +1,3 @@
 # Status
 ---
-We have added a couple status pages for the bot and website, each showing something different but are all important. Our staff team works around the clock to ensure performance of our bots is exceptional.
-
-If you want to see scheduled maintenances and developer messages, then go to [this](https://badly-made-bot.freshstatus.io/) status page
-
-If you want to just see if the services are online and how they have been the last 7 days, then check [this](https://statuspage.freshping.io/25249-BadlyMadeBot) status page
-
-If you want to see detailed statistics about the uptime of the services, then check [this](https://stats.uptimerobot.com/kwLQEhnkg1) status page
+We have a status page for the bot so you can see scheduled maintenances, status and developer messages. The status page is located [here](https://badly-made-bot.freshstatus.io/)
