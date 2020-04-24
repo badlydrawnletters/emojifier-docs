@@ -1,4 +1,4 @@
-[Badly Made Bot Docs](/)
+[Emojifier Docs](/)
 [Getting started](getting-started.md)
 [Bot and Website status](status.md)
 
