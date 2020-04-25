@@ -6,24 +6,27 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover">
     <title>Emojifier Docs</title>
-    <link rel="icon" type="image/ico" href="https://emojifier.js.org/images/favicon.ico">
-    <meta property="og:site_name" content="Emojifier">
+    <link rel="icon" type="image/ico" href="/images/favicon.ico">
+    <meta property="og:site_name" content="Emojifier Docs>
     <meta property="twitter:card" content="summary_large_image">
-    <meta name="description" content="The official documentation for the Discord bot Emojifier">
+    <meta name="description" content="The official documentation for the Emojifier Discord bot">
     <meta name="theme-color" content="#7289da">
     <meta property="og:title" content="Emojifier Docs">
-    <meta property="og:description" content="The official documentation for the Discord bot Emojifier">
-    <meta property="og:url" content="https://emojifier.js.org/images/logo.png">
+    <meta property="og:description" content="The official documentation for the Emojifier Discord bot">
+    <meta property="og:url" content="https://emojifier.js.org">
     <meta property="og:image" content="https://emojifier.js.org/images/logo.png">
-    <meta property="og:image:type" content="https://emojifier.js.org/images/logo.png">
+    <meta property="og:image:type" content="image/png">
 
     <!-- Theme -->
+    <link
+     rel="stylesheet"
+    href="//cdn.jsdelivr.net/npm/docsify-top-banner-plugin@latest/dist/style.css"
+    />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-top-banner-plugin@latest/dist/style.css"/>
+
     <!-- Custom theme styles -->
     <style>
       :root {
-        --theme-color: blue
         --base-background-color: #ffffff;
         --code-theme-background: #183055;
         --code-inline-color: #ffffff;
@@ -34,7 +37,6 @@
         --link-text-decoration: ;
         --link-text-decoration--hover: underline;
         --base-font-size: 16px;
-        --theme-color: dark;
       }
    </style>
 
@@ -49,44 +51,41 @@
         window.$docsify = {
             // GENERAL
             // -----------------------------------------------------------------
-            name: 'Emojifier',
+            name: 'Emojifier Docs',
             homepage: 'home.md',
-            logo: 'https://emojifier.js.org/images/logo.png',
-            coverpage: true,
+            logo: '/images/logo.png',
             loadSidebar: true,
+            coverpage: true,
             loadNavbar: true,
-            
             auto2top: true,
             maxLevel: 3,
             alias: {
               '/.*/_sidebar.md': '_sidebar.md'
             },
-            topBanner : {
+            /*topBanner : {
               position : 'relative',
               zIndex : '10',
-              content : "📣 We've rebranded. Same us, same bot, new name! []()",
+              content : "📣 We’ve rebranded. Same us, same bot, new name!",
               backgroundColor: "#7289da"
-            },
-
-
+            },*/
             // PLUGINS
             // -----------------------------------------------------------------
-
             executeScript: true,
             ga    : 'UA-100100910-3',
             search: {
                 depth      : 3,
                 noData     : 'No results!',
                 placeholder: 'Search...'
-            }
+            },
+            themeColor: "#000000"
         };
-
     </script>
     <script src="assets/js/main.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code@2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-top-banner-plugin@latest/dist/index.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-pagination@2/dist/docsify-pagination.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/external-script.min.js"></script>
@@ -94,7 +93,5 @@
     <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/docsify-top-banner-plugin@latest/dist/index.js"></script>
-
 </body>
 </html>
