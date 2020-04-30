@@ -8,6 +8,7 @@ This command allows server staff members blacklist certain users from using the 
 !!blacklist  <user_id>
 ```
 ### Aliases
+None
 
 ### Permission Required
 Any user with the **Manage Server** permission can use this command.
