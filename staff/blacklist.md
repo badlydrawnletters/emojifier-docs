@@ -12,13 +12,15 @@ Blacklists a certain user from using the bot
 !!blacklist  setrole <role_id>
 ```
 If your mode is set to `whitelist` you will need to input the role ID's via this command to allow users to use the bot.
-If your bot is set to `blacklist` you will need to input the role ID's via this command to blacklist users from using the bot.
+If your mode is set to `blacklist` you will need to input the role ID's via this command to blacklist users from using the bot.
 ```
 !!setmode whitelist
 ```
+Allow users with certain roles to use the bot.
 ```
 !!setmode blacklist
 ```
+Blacklist users from using the bot that have a certain role.
 ```
 !!setmode disabled
 ```
