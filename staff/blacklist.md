@@ -7,9 +7,12 @@ This command allows server staff members blacklist certain users/roles from usin
 ```
 !!blacklist  user <user_id>
 ```
+Blacklists a certain user from using the bot
 ```
 !!blacklist  setrole <role_id>
 ```
+If your mode is set to `whitelist` you will need to input the role ID's via this command to allow users to use the bot.
+If your bot is set to `blacklist` you will need to input the role ID's via this command to blacklist users from using the bot.
 ```
 !!setmode whitelist
 ```
@@ -19,6 +22,7 @@ This command allows server staff members blacklist certain users/roles from usin
 ```
 !!setmode disabled
 ```
+Disable this feature, and allow all users to use the bot.
 ### Aliases
 None
 
