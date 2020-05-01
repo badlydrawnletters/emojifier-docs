@@ -8,7 +8,16 @@ This command allows server staff members blacklist certain users/roles from usin
 !!blacklist  user <user_id>
 ```
 ```
-!!blacklist  set <role_id>
+!!blacklist  setrole <role_id>
+```
+```
+!!setmode whitelist
+```
+```
+!!setmode blacklist
+```
+```
+!!setmode disabled
 ```
 ### Aliases
 None
@@ -16,5 +25,5 @@ None
 ### Permission Required
 Any user with the **Manage Server** permission can use this command.
 
-?> Starting next week, 5% of servers will have access to server blacklisting and expect a 100% rollout for all servers over the week 
+?> This feature is coming soon! 
 
