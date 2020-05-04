@@ -39,4 +39,4 @@
 
 **FURTHER RESOURCES**
 [Support Server](https://discord.gg/MTwj6wG)
-[Invite the Bot!](https://discordapp.com/oauth2/authorize?client_id=673994042450903089&scope=bot&permissions=347200)
+[Invite the Bot!](https://discord.com/oauth2/authorize?client_id=673994042450903089&scope=bot&permissions=347200)
