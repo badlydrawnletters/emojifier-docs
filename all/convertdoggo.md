@@ -12,4 +12,4 @@ Anyone can use this command, unless they are blacklisted globally
 ### Example image
 ![convert example](../images/convertdoggo.png)
 
-?> You must have an active [Discord Nitro](https://discordapp.com/nitro) subscription to use these emojis in other servers
+?> You must have an active [Discord Nitro](https://discord.com/nitro) subscription to use these emojis in other servers
