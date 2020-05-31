@@ -4,6 +4,13 @@
 ---
 <!-- tabs:start -->
 
+#### **Glenn Bot List**
+
+# Glenn Bot List
+---
+[![Glenn bot list widget](https://glennbotlist.xyz/bot/673994042450903089/widget)](https://glennbotlist.xyz/bot/673994042450903089)
+### [Click here to vote!](https://glennbotlist.xyz/bot/673994042450903089/vote)
+
 #### **Discord Boats**
 
 # Discord Boats
@@ -38,13 +45,6 @@
 ---
 [![Bots For Discord widget](https://botsfordiscord.com/api/bot/673994042450903089/widget)](https://botsfordiscord.com/bots/673994042450903089)
 ### [Click here to vote!](https://botsfordiscord.com/bot/673994042450903089/vote)
-
-#### **Glenn Bot List**
-
-# Glenn Bot List
----
-[![Glenn bot list widget](https://glennbotlist.xyz/bot/673994042450903089/widget)](https://glennbotlist.xyz/bot/673994042450903089)
-### [Click here to vote!](https://glennbotlist.xyz/bot/673994042450903089/vote)
 
 #### **Bots on Discord**
 
