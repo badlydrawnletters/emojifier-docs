@@ -4,6 +4,13 @@
 ---
 <!-- tabs:start -->
 
+#### **Discord Boats**
+
+# Discord Boats
+---
+[![Discord Boats widget](https://discord.boats/api/widget/673994042450903089)](https://discord.boats/bot/673994042450903089)
+### [Click here to vote!](https://discord.boats/bot/673994042450903089/vote)
+
 #### **Glenn Bot List**
 
 # Glenn Bot List
