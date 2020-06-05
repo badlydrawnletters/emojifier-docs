@@ -3,6 +3,12 @@
 #### The best way to support the bot is by voting for it on bot lists. If you are in the [Support Server](https://discord.gg/MTwj6wG), you can get rewards for voting! (Rewards system is coming soon™️)
 ---
 <!-- tabs:start -->
+#### **Bots For Discord**
+
+# Bots For Discord
+---
+[![Bots For Discord widget](https://botsfordiscord.com/api/bot/673994042450903089/widget)](https://botsfordiscord.com/bots/673994042450903089)
+### [Click here to vote!](https://botsfordiscord.com/bot/673994042450903089/vote)
 
 #### **Discord Boats**
 
@@ -46,12 +52,6 @@
 [![Discord Bot List widget](https://discordbotlist.com/bots/673994042450903089/widget?bg=7289da)](https://discordbotlist.com/bots/673994042450903089)
 ### [Click here to vote!](https://discordbotlist.com/bots/673994042450903089/upvote)
 
-#### **Bots For Discord**
-
-# Bots For Discord
----
-[![Bots For Discord widget](https://botsfordiscord.com/api/bot/673994042450903089/widget)](https://botsfordiscord.com/bots/673994042450903089)
-### [Click here to vote!](https://botsfordiscord.com/bot/673994042450903089/vote)
 
 #### **Bots on Discord**
 
