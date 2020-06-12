@@ -33,7 +33,7 @@
 ---
 
 **Safety**
-[User Safety](safety/safety.md)
+[User Safety](safety/usersafety.md)
 [Reporting Process](safety/reporting.md)
 
 ---
