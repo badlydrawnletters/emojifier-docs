@@ -1,7 +1,7 @@
 # User Safety at Emojifier
 ---
-### Description
-This command is used to convert text into Bless letter emojis
+### Introduction to Emojifier
+Emojifier is a Discord Bot that works hard everyday to enhance a users chat experience, while users may stumble upon unwanted content to work hard to ensure that it doesn't happen.
 ### Usage
 ```
 !!convertbless <text>
@@ -9,7 +9,6 @@ This command is used to convert text into Bless letter emojis
 ### Permission Required
 Anyone can use this command, unless they are blacklisted globally
 
-### Example image
-![convert example](../images/convertbless.PNG)
+![convert example](../images/bearprotection.png)
 
 ?> Our team 
