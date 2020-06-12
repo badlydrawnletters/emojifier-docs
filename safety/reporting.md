@@ -1,9 +1,9 @@
-# User Safety at Emojifier
+# How to Properly Report Issues to our team
 ---
-### Introduction to Emojifier
-Emojifier is a Discord Bot that works hard everyday to enhance a users chat experience, while users may stumble upon unwanted content to work hard to ensure that it doesn't happen.
+### What can be reported?
+Any thing that violates Discord's Terms of Service and Community Guidelines can be reported to our team! However if this if happening outside of our bot we are **unable** to take action on this, Discord's Trust & Safety Team can handle this issue. Please report to user [at](https://dis.gd/request) and read [this](https://dis.gd/howtoreport) on how to report!
 
 
 ![safety](../images/safety.png)
 
-?> Our team is more that happy to clarify anything about our bot in our [support server](https://discord.gg/qGvzMas)
+?> Our team takes action within 24 hours of every report.
