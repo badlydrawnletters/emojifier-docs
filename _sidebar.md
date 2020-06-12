@@ -32,6 +32,12 @@
 
 ---
 
+**Safety**
+[User Safety](safety/safety.md)
+[Reporting Process](safety/reporting.md)
+
+---
+
 **SUPPORTING THE BOT**
 [Info](supporting/info.md)
 
