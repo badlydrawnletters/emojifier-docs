@@ -5,7 +5,7 @@ Emojifier is a Discord Bot that works hard everyday to enhance a users chat expe
 
 ### What actions we take
 - Removing the message
-- Temporarily blacklisting for a fixed amount of time as a “cool-down” period
+- Temporarily blacklisting a user for a fixed amount of time as a “cool-down” period
 - Permanently blacklisted users from Emojifier, making them unable to use any of our commands
 - Blacklisted an entire server from using our bot
 
