@@ -1,13 +1,13 @@
 # Help
 ---
 ### Description
-This command shows help about either a single command or provides the link to the documentation.
+This command shows a list of all the command's the bot has, and shows link on how to get support for the bot.
 ### Usage
 ```
 !!help 
 ```
 ### Aliases
-`command`, `howto`
+None
 ### Permission Required
 Anyone can use this command, unless they are blacklisted in the globally.
 
