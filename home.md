@@ -9,3 +9,10 @@ Emojifier, a Discord bot that focuses on enhancing a users chat experience. We h
 ?> All **Usage** sections on these docs will assume that the command prefix is the default `!!` prefix that is set when the bot is added to a server. The `setprefix` command gives the option of changing the prefix, and if your server's prefix has been changed you should replace `!!` with that prefix.
 
 ?> In this documentation, arguments in <angle brackets> are required, while arguments in [brackets] are optional. You also should not type out the brackets and parenthesis when using the commands.
+<widgetbot
+  server="299881420891881473"
+  channel="355719584830980096"
+  width="800"
+  height="600"
+></widgetbot>
+<script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
