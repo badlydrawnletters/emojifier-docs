@@ -4,7 +4,7 @@
 This command is used to send a suggestion to the developers
 ### Usage
 ```
-!!suggest test
+!!suggest
 ```
 ### Permission Required
 Anyone can use this command, unless they are blacklisted globally
@@ -13,6 +13,8 @@ Anyone can use this command, unless they are blacklisted globally
 ![suggest example](../images/suggestion.PNG)
 
 !> Abuse of this command may result in removal of suggestion privileges
+
+### Alternatively, you can use the form below to suggest a feature!
 
 <!-- Copy and Paste Me -->
 <div class="glitch-embed-wrap" style="height: 420px; width: 100%;">
