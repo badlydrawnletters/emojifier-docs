@@ -1,7 +1,7 @@
 # User Safety at Emojifier
 ---
 ### Introduction to Emojifier
-Emojifier is a Discord Bot that works hard everyday to enhance a users chat experience, while users may stumble upon unwanted content/harassment we work hard to ensure that it doesn't happen. We only takes action on what happens while using Emojifier
+Emojifier is a Discord Bot that works hard everyday to enhance a users chat experience, while users may stumble upon unwanted content/harassment we work hard to ensure that it doesn't happen. We only take action on what happens while using Emojifier
 
 ### What actions we take
 - Removing the message
