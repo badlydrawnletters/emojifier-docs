@@ -27,20 +27,12 @@
 ---
 
 **STAFF COMMANDS**
-[Reporting](staff/reporting.md)
-[User Safety](staff/usersafety.md)
+[Blacklist](staff/blacklist.md)
+[Set Prefix](staff/setprefix.md)
 
 ---
-
-**Safety**
-[Reporting](staff/blacklist.md)
-[Set Prefix](staff/setprefix.md)
 
 **SUPPORTING THE BOT**
 [Info](supporting/info.md)
 
 ---
-
-**FURTHER RESOURCES**
-[Support Server](https://discord.gg/MTwj6wG)
-[Invite the Bot!](https://discord.com/oauth2/authorize?client_id=673994042450903089&scope=bot&permissions=347200)
