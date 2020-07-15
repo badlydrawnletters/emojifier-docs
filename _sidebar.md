@@ -33,8 +33,8 @@
 ---
 
 **Safety**
-[Reporting](staff/reporting.md)
-[User Safety](staff/usersafety.md)
+[Reporting](safety/reporting.md)
+[User Safety](safety/usersafety.md)
 
 ---
 **SUPPORTING THE BOT**
