@@ -27,10 +27,13 @@
 ---
 
 **STAFF COMMANDS**
-[Blacklist](staff/blacklist.md)
-[Set Prefix](staff/setprefix.md)
+[Reporting](staff/reporting.md)
+[User Safety](staff/usersafety.md)
 
 ---
+**Safety**
+[Reporting](staff/blacklist.md)
+[Set Prefix](staff/setprefix.md)
 
 **SUPPORTING THE BOT**
 [Info](supporting/info.md)
