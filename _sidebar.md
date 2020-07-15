@@ -31,6 +31,7 @@
 [User Safety](staff/usersafety.md)
 
 ---
+
 **Safety**
 [Reporting](staff/blacklist.md)
 [Set Prefix](staff/setprefix.md)
