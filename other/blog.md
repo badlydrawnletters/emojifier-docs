@@ -1,6 +1,6 @@
 # Emojifier's Blog
 ---
-### Check back often for updates from the developers about Emojifier!
+**Check back often for updates from the developers about Emojifier!**
 
 <!-- Copy and Paste Me -->
 <div class="glitch-embed-wrap" style="height: 420px; width: 100%;">
