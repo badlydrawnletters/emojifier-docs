@@ -32,7 +32,7 @@
 
 ---
 
-**Safety**
+**SAFETY**
 [Reporting](safety/reporting.md)
 [User Safety](safety/usersafety.md)
 
@@ -41,7 +41,7 @@
 [Info](supporting/info.md)
 
 ---
-**Other**
+**OTHER**
 [Blog](other/blog.md)
 [Legal](other/legal.md)
 
