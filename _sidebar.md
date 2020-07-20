@@ -41,3 +41,8 @@
 [Info](supporting/info.md)
 
 ---
+**Other**
+[Blog](other/blog.md)
+[Legal](other/legal.md)
+
+---
