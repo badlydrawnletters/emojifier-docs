@@ -10,13 +10,6 @@
 [![Bots For Discord widget](https://botsfordiscord.com/api/bot/673994042450903089/widget)](https://botsfordiscord.com/bots/673994042450903089)
 ### [Click here to vote!](https://botsfordiscord.com/bot/673994042450903089/vote)
 
-#### **Discord Boats**
-
-# Discord Boats
----
-[![Discord Boats widget](https://discord.boats/api/widget/673994042450903089)](https://discord.boats/bot/673994042450903089)
-### [Click here to vote!](https://discord.boats/bot/673994042450903089/vote)
-
 #### **Glenn Bot List**
 
 # Glenn Bot List
