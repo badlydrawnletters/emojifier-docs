@@ -45,6 +45,3 @@
 - [Legal](other/legal.md)
 
 ---
-- [![Github](https://icongram.jgog.in/simple/github.svg?color=808080&size=16)Github](https://github.com/badlydrawnletters/emojifier-docs)
-- [![Discord](https://icongram.jgog.in/simple/npm.svg?colored&size=16)NPM](https://discord.gg/MTwj6wG)
-- [![Twitter](https://icongram.jgog.in/simple/twitter.svg?colored&size=16)@jhildenbiddle](http://twitter.com/emojifierbot)
