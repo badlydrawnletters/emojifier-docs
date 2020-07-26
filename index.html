@@ -36,6 +36,7 @@
       search : [
         '/',
       ],
+        
       plugins: [
         function(hook) {
           var footer = [
@@ -70,6 +71,12 @@
         
         
       },
+        topBanner : {
+           position : 'relative',
+           zIndex : '10',
+           content : "📣 All systems [operational](https://emojifier.statuspage.io/)",
+           backgroundColor: "#11f193"
+            },
       formatUpdated: '{MM}/{DD} {HH}:{mm}',
       
     }
@@ -80,6 +87,7 @@
   <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-bash.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-markdown.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-nginx.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-top-banner-plugin@latest/dist/index.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
   <script 
     src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"
