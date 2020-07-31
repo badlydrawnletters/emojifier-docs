@@ -8,4 +8,4 @@ Emojifier, a Discord bot that focuses on enhancing a users chat experience. We h
 
 ?> All **Usage** sections on these docs will assume that the command prefix is the default one (`!!`) which allows you to use the bot in a server. The `setprefix` command gives the option to change the prefix, and if your server's prefix has been changed, `!!` will have to be replaced with your new prefix.
 
-?> In this documentation, arguments in <angle brackets> are required, while arguments in [brackets] are optional. You also should not type out the brackets and parenthesis when using the commands.
+?> In this documentation, arguments in \<angle brackets\> are required, while arguments in [brackets] are optional. You also should not type out the brackets and parenthesis when using the commands.
