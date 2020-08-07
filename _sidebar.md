@@ -21,6 +21,7 @@
 - [Stats](all/stats.md)
 - [Suggest](all/suggest.md)
 - [Support](all/support.md)
+- [Userinfo](all/userinfo.md)
 - [Verify](all/verify.md)
 - [Vote](all/vote.md)
 
