@@ -28,7 +28,6 @@
 ---
 
 - STAFF COMMANDS
-- [Blacklist](staff/blacklist.md)
 - [Set Prefix](staff/setprefix.md)
 
 ---
