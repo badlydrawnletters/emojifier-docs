@@ -19,4 +19,4 @@
 #### • Please join our [Support Server](https://discord.gg/qGvzMas) and DM BDl ModMail for your data to be removed.
 
 ### I'm confused about why you need this data, can you explain this to me in detail?
-#### • Feel free to join the [Support Server](https://discord.gg/qGvzMas) and DM BDL ModMail to we can clarify any questions you have.
+#### • Feel free to join the [Support Server](https://discord.gg/qGvzMas) and DM BDL ModMail so we can clarify any questions you have.
