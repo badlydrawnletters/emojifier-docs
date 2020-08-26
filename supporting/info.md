@@ -9,7 +9,6 @@
 
 **Glenn Bot List**
 
-Glenn Bot List
 [![Glenn bot list widget](https://glennbotlist.xyz/bot/673994042450903089/widget)](https://glennbotlist.xyz/bot/673994042450903089)
 [Click here to vote!](https://glennbotlist.xyz/bot/673994042450903089/vote)
 
