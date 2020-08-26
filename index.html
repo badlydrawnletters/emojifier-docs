@@ -85,5 +85,9 @@
   </script>
 </body>
 <script src="https://7b219pdblnt9.statuspage.io/embed/script.js"></script>
-
+<script>
+  if (typeof navigator.serviceWorker !== 'undefined') {
+    navigator.serviceWorker.register('sw.js')
+  }
+</script>
 </html>
