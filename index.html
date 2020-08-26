@@ -31,6 +31,16 @@
 <body>
   <div id="app">We are building somthing special for you ...</div>
   <script>
+        window.$docsify = {
+      plugins: [
+        function (hook, vm) {
+          // parse twemoji
+          hook.doneEach(function() {
+              twemoji.parse(document);
+          });
+        },
+      ]
+  }
     window.$docsify = {
       search: 'auto', // default
       search : [
@@ -50,12 +60,7 @@
           });
         }
       ],
-          function (hook, vm) {
-          // parse twemoji
-          hook.doneEach(function() {
-              twemoji.parse(document);
-          });
-        },
+
       auto2top: true,
       repo: 'https://github.com/badlydrawnletters/emojifier-docs',
       executeScript: true,
