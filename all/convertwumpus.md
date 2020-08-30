@@ -1,4 +1,4 @@
-# Convertwumpus
+# Convertwumpus <img src="images/wumpusbeach.svg" width="35" height="35" />
 ---
 ### Description
 This command is used to convert text into Wumpus letter emojis
