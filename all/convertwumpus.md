@@ -1,4 +1,4 @@
-# Convertwumpus <img src="images/wumpusbeach.svg" width="50" height="50" />
+# Convertwumpus
 ---
 ### Description
 This command is used to convert text into Wumpus letter emojis
@@ -13,3 +13,5 @@ Anyone can use this command, unless they are blacklisted globally
 ![convert example](../images/convertwumpus.PNG)
 
 ?> You must have an active [Discord Nitro](https://discord.com/nitro) subscription to use these emojis in other servers
+
+<img src="images/wumpusbeach.svg" width="50" height="50" />
