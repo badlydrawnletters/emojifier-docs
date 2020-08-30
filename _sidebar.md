@@ -14,6 +14,7 @@
 - [Convert Ghost](all/convertghost.md)
 - [Convert Heart](all/convertheart.md)
 - [Convert OhNo](all/convertohno.md)
+- [Convert Scrabble](all/convertscrabble.md)
 - [Convert Wumpus](all/convertwumpus.md)
 - [Help](all/help.md)
 - [Invite](all/invite.md)
