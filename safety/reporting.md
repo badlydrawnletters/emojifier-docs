@@ -6,9 +6,9 @@ Any thing that violates Discord's Terms of Service and Community Guidelines can 
 <br>
 
 <!-- Copy and Paste Me -->
-<div class="emojifiers-status-page" style="height: 420px; width: 100%;">
+<div class="emojifiers-reporting-form" style="height: 420px; width: 100%;">
   <iframe
-    src="https://emojifier.statuspage.io"
+    src="https://emojifier.zendesk.com/hc/en-us/requests/new?ticket_form_id=360001109091"
     title="Reporting Form"
     allow="geolocation; microphone; camera; midi; vr; encrypted-media"
     style="height: 100%; width: 100%; border: 0;">
