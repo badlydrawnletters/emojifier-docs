@@ -1,8 +1,8 @@
 # Emojifier's Emoji Partners <img src="https://cdn.discordapp.com/emojis/754221282882748427.png" width="50" height="50" />
 
-### Badly Drawn Letters
+<!-- ### Badly Drawn Letters
 Letters that are badly drawn
-https://discord.gg/qGvzMas
+https://discord.gg/qGvzMas -->
 
 ### Emojifier Server Discovery
 Below, we have an interactive viewing experience to see all of Emojifier's emoji partners.
