@@ -43,8 +43,8 @@
 
 ---
 - OTHER
-- [Emoji Discovery](other/servers.md)
 - [Blog](other/blog.md)
+- [Emojis](other/servers.md)
 - [Legal](other/legal.md)
 
 ---
