@@ -1,7 +1,7 @@
 # Supporting the Bot
 ---
 #### The best way to support the bot is by voting for it on bot lists. If you are in the [Support Server](https://discord.gg/MTwj6wG), you can get rewards for voting! (Rewards system is coming soon™️)
-
+<img src="images/sparkles2.svg" width="150" height="150" />
 **Bots For Discord**
 
 [![Bots For Discord widget](https://botsfordiscord.com/api/bot/673994042450903089/widget)](https://botsfordiscord.com/bots/673994042450903089)
