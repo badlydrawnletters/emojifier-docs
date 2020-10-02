@@ -1,6 +1,6 @@
 - [Emojifier Docs](/)
-- [Getting started](getting-started.md)
-- [Bot and Website status](status.md)
+- [Getting Started](getting-started.md)
+- [Bot and Website Status](status.md)
 
 ---
 - PUBLIC COMMANDS
