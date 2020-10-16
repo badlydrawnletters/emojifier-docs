@@ -1,12 +1,12 @@
 # Supporting the Bot
 ---
-#### The best way to support the bot is by voting for it on bot lists. If you are in the [Support Server](https://discord.gg/MTwj6wG), you can get rewards for voting! (Rewards system is coming soon™️)
+#### The best way to support the bot is by voting for it on bot lists. If you are in the&nbsp;[Support Server](https://discord.gg/MTwj6wG), you can get rewards for voting! (Rewards system is coming soon™️)
 **Bots For Discord**
 
 [![Bots For Discord widget](https://botsfordiscord.com/api/bot/673994042450903089/widget)](https://botsfordiscord.com/bots/673994042450903089)
 [Click here to vote!](https://botsfordiscord.com/bot/673994042450903089/vote)
 
-**Glenn Bot List**
+**Glenn Bot List** 
 
 [![Glenn bot list widget](https://glennbotlist.xyz/bot/673994042450903089/widget)](https://glennbotlist.xyz/bot/673994042450903089)
 [Click here to vote!](https://glennbotlist.xyz/bot/673994042450903089/vote)
