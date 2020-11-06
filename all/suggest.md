@@ -16,12 +16,13 @@ Anyone can use this command, unless they are blacklisted globally
 
 ### Alternatively, you can use the form below to suggest a feature!
 
+
 <!-- Copy and Paste Me -->
-<div class="glitch-embed-wrap" style="height: 420px; width: 100%;">
+<div class="emojifier-suggestions" style="height: 420px; width: 100%;">
   <iframe
-    src="https://glitch.com/embed/#!/embed/emojifier-suggestions?path=views/done.pug&previewSize=100&attributionHidden=true"
-    title="emojifier-suggestions on Glitch"
+    src="https://emojifier-suggestions.glitch.me"
+    title="Emojifier Suggestions"
     allow="geolocation; microphone; camera; midi; vr; encrypted-media"
     style="height: 100%; width: 100%; border: 0;">
   </iframe>
-</div>
+</div> 
