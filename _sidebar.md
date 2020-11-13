@@ -16,6 +16,7 @@
 - [Convert OhNo](all/convertohno.md)
 - [Convert Scrabble](all/convertscrabble.md)
 - [Convert Wumpus](all/convertwumpus.md)
+- [Convert Wumpus 2](all/convertwumpus2.md)
 - [Help](all/help.md)
 - [Invite](all/invite.md)
 - [Ping](all/ping.md)
