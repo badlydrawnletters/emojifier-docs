@@ -5,6 +5,7 @@
 ---
 - PUBLIC COMMANDS
 - [Bug Report](all/bugreport.md)
+- [Discovery](all/discovery.md)
 - [Convert](all/convert.md)
 - [Convert Bless](all/convertbless.md)
 - [Convert Clap](all/convertclap.md)
