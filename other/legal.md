@@ -15,7 +15,7 @@
 #### It stores server IDs & channel ID's for settings because:
 ##### • Without those most of the bot wouldn't be functional. The logs would break or wouldn't properly log in commands in the set channel.
 
-### How can I get rid of the data stored?
+### How can I request for my data to be removed?
 ##### • Please join our&nbsp;[Support Server](https://discord.gg/qGvzMas) and DM BDL ModMail for your data to be removed.
 
 ### I'm confused about why you need this data, can you explain this to me in detail?
