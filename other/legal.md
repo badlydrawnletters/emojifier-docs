@@ -6,7 +6,7 @@
 ##### • Channel IDs for channels data (command logging)
 
 ### Who can access the data?
-#### Following people can access the data (prefixes,  command logging, server-wide blacklists, and global bot blacklists):
+#### The following people can access the data (prefixes,  command logging, server-wide blacklists, and global bot blacklists):
 ##### • Bot Administrators
 ##### • Bot Developers
 
