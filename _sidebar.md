@@ -13,6 +13,7 @@
 - [Convert Doggo](all/convertdoggo.md)
 - [Convert Ghost](all/convertghost.md)
 - [Convert Heart](all/convertheart.md)
+- [Convert Kitty](all/convertkitty.md)
 - [Convert OhNo](all/convertohno.md)
 - [Convert Scrabble](all/convertscrabble.md)
 - [Convert Wumpus](all/convertwumpus.md)
