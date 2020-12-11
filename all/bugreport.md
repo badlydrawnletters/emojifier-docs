@@ -14,7 +14,7 @@ Anyone can use this command, unless they are blacklisted globally
 
 !> Abuse of this command may result in removal of bug reporting privileges
 
-### Alternatively, you can use the form below to suggest a feature!
+### Alternatively, you can use the form below to report a bug!
 
 
 <!-- Copy and Paste Me -->
