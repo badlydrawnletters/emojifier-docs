@@ -47,7 +47,6 @@
 ---
 - OTHER
 - [Blog](other/blog.md)
-- [Emojis](other/servers.md)
 - [Legal](other/legal.md)
 
 ---
