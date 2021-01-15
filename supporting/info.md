@@ -6,10 +6,10 @@
 [![Bots For Discord widget](https://botsfordiscord.com/api/bot/673994042450903089/widget)](https://botsfordiscord.com/bots/673994042450903089)
 [Click here to vote!](https://botsfordiscord.com/bot/673994042450903089/vote)
 
-**Glenn Bot List** 
+<!-- **Glenn Bot List** 
 
 [![Glenn bot list widget](https://glennbotlist.xyz/bot/673994042450903089/widget)](https://glennbotlist.xyz/bot/673994042450903089)
-[Click here to vote!](https://glennbotlist.xyz/bot/673994042450903089/vote)
+[Click here to vote!](https://glennbotlist.xyz/bot/673994042450903089/vote) -->
 
 **Discord Boats**
 
@@ -26,10 +26,10 @@
 [![Botlist.space Widget](https://api.botlist.space/widget/673994042450903089/5?rounded=true&shadows=true&background=7289da)](https://botlist.space/bot/673994042450903089?utm_source=bls&utm_medium=widget&utm_campaign=673994042450903089)
 [Click here to vote!](https://botlist.space/bot/673994042450903089/upvote)
 
-**Discord Bot List**
+<!-- **Discord Bot List**
 
 [![Discord Bot List widget](https://discordbotlist.com/bots/673994042450903089/widget?bg=7289da)](https://discordbotlist.com/bots/673994042450903089)
-[Click here to vote!](https://discordbotlist.com/bots/673994042450903089/upvote)
+[Click here to vote!](https://discordbotlist.com/bots/673994042450903089/upvote) -->
 
 
 **Bots on Discord**
