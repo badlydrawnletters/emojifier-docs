@@ -1,7 +1,11 @@
-# Uer Info
+# User Info
 ---
 ### Description
 Shows information about yourself or another user.
+
+### Optional Arguments
+`user` - The user you want information about, it can userID or mention
+
 ### Usage
 ```
 !!userinfo
