@@ -8,7 +8,7 @@ Shows information about yourself or another user.
 
 ### Usage
 ```
-!!userinfo <user>
+!!userinfo [user]
 ```
 
 ### Example image
