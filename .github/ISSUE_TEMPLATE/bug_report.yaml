@@ -38,8 +38,8 @@ body:
     - Microsoft Edge    
 - type: checkboxes
   attributes:
-    label: Code of Conduct
-    description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+    label: Bug Reproducibility
+    description: By submitting this issue, you confirm that this bug is consistently reproducible.
     options:
-    - label: I agree to follow this project's Code of Conduct
+    - label: This bug is consistently reproducible
       required: true
