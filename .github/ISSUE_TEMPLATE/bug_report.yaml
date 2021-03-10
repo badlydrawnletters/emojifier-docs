@@ -1,10 +1,9 @@
 name: Bug Report
 description: File a bug report
 title: "[Bug]: "
-labels: [bug, triage]
+labels: [bug]
 assignees:
-- monalisa
-- nat
+- techy
 issue_body: true
 body:
 - type: markdown
