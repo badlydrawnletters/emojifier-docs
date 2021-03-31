@@ -1,4 +1,4 @@
-# Getting started {docsify-ignore-all}
+# Slash Commands {docsify-ignore-all}
 ---
 
 ## Introducing slash commands to Emojifier
