@@ -3,4 +3,4 @@ Emojifier, a Discord bot that focuses on enhancing a users chat experience. We h
 
 ![Emojifier_Logo](https://emojifier.js.org/images/logo.png)
 
-![Support server](https://inv.wtf/widget/bdl?format=svg)
+![Support server](https://inv.wtf/widget/bdl?format=png)
