@@ -11,4 +11,5 @@ However, if Emojifier’s not already in your server/wasn't added before the 25t
 
 ### Demo
 ![Slash commands GIF demo](/images/slash_commands.gif) 
+
 ?> If you have any issues using our slash commands, please join our [support server](https://discord.gg/MTwj6wG) to receive assistance!
