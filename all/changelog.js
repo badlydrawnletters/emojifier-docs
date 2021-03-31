@@ -9,5 +9,5 @@ This command is used to information about the bot's recent update and any announ
 ### Permission Required
 Anyone can use this command, unless they are blacklisted globally
 
-<!-- ### Example image
-![changelog example](../images/changelog.png) -->
+### Example image
+![changelog example](../images/changelog.PNG) 
