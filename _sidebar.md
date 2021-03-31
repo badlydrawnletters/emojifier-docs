@@ -1,5 +1,6 @@
 - [Emojifier Docs](/)
 - [Getting Started](getting-started.md)
+- [Slash Commands](slash-commands.md)
 - [Bot and Website Status](status.md)
 
 ---
