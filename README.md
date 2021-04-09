@@ -18,4 +18,4 @@ Emojifier, a Discord bot that focuses on enhancing a users chat experience. We h
 
  If you have any questions or concerns regarding Emojifier and/or our documentation feel free to reach out to us via our support server:
 
-<img src="https://inv.wtf/widget/bdl?format=svg" width="600" height="150">
+<img src="https://inv.wtf/widget/bdl?format=png" width="600" height="150">
