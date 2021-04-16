@@ -4,7 +4,7 @@
 Shows information about yourself or another user.
 
 ### Optional Arguments
-`user` - The user you want information about, it can userID or mention
+`user` - The user you want information about, it can user ID or mention, if no arguments are provided it will default to your profile
 
 ### Usage
 ```
