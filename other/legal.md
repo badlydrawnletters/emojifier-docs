@@ -2,7 +2,7 @@
 ### What does it store?
 #### Emojifier stores the following: 
 ##### • Server IDs for server data (prefixes, command logging, and server-wide blacklists)
-##### • User IDs for user data (server-wide &global bot blacklists)
+##### • User IDs for user data (server-wide & global bot blacklists)
 ##### • Channel IDs for channel data (command logging)
 
 ### Who can access the data?
