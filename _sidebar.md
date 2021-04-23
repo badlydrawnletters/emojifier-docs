@@ -6,7 +6,6 @@
 ---
 - PUBLIC COMMANDS
 - [Bug Report](all/bugreport.md)
-- [Discovery](all/discovery.md)
 - [Changelog](all/changelog.md)
 - [Convert](all/convert.md)
 - [Convert Bless](all/convertbless.md)
@@ -21,6 +20,7 @@
 - [Convert Scrabble](all/convertscrabble.md)
 - [Convert Wumpus](all/convertwumpus.md)
 - [Convert Wumpus 2](all/convertwumpus2.md)
+- [Discovery](all/discovery.md)
 - [Help](all/help.md)
 - [Invite](all/invite.md)
 - [Ping](all/ping.md)
