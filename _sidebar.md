@@ -24,6 +24,7 @@
 - [Help](all/help.md)
 - [Invite](all/invite.md)
 - [Ping](all/ping.md)
+- [Shard](all/shard.md)
 - [Stats](all/stats.md)
 - [Suggest](all/suggest.md)
 - [Support](all/support.md)
