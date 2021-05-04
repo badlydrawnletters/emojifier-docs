@@ -12,4 +12,4 @@ Emojifier is a Discord Bot that works hard everyday to enhance a users chat expe
 
 ![bearprotection](../images/bearprotection.png)
 
-?> Our team is more that happy to clarify anything about our bot in our [support server](https://discord.gg/qGvzMas)
+?> Our team is more that happy to clarify anything about our bot in our [support server](https://discord.gg/qGvzMas).
