@@ -3,7 +3,7 @@
 ### What can be reported?
 Anything that violates [Discord's Terms of Service](https://discord.com/terms) and/or [Community Guidelines](https://discord.com/guidelines) can be reported to our team. However if this is happening outside of our bot we are **unable** to take action on this, but Discord's Trust & Safety Team can handle this issue. Please report the user at [this](https://dis.gd/request) link and read [this](https://dis.gd/howtoreport) on how to report.
 
-!> We **cannot** take **any** action on the users account itself, this is something that Discord's Trust & Safety can handle. We are **only** able to remove the bots (Emojifier's) message and/or blacklist the user from using the bot.
+!> We **cannot** take **any** action on the users account itself, this is something that Discord's Trust & Safety can handle. We are **only** able to remove the bots (Emojifiers) message and/or blacklist the user from using the bot.
 
 ### How to properly report issues to our team?
 * First head over to this [link](https://emojifier.zendesk.com/hc/en-us/requests/new?ticket_form_id=360001109091)
