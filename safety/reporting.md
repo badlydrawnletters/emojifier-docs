@@ -12,7 +12,7 @@ Anything that violates [Discord's Terms of Service](https://discord.com/terms) a
 * Then click "Submit Request"
 * That's all, be sure to check your email for an update in case we need more information!
 
-?> Our team takes action within 24 hours of every report, we can only take action on issues that occur while using our bot.
+?> Our team takes action within 24 hours of every report and we can only take action on issues that occur while using our bot.
 
 ![safety](../images/safety.png)
 
