@@ -50,6 +50,7 @@
 
 ---
 - OTHER
+- [Discovery](other/discovery.md)
 - [Blog](other/blog.md)
 - [Legal](other/legal.md)
 
