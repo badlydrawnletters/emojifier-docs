@@ -1,7 +1,7 @@
 # Help
 ---
 ### Description
-This command shows a list of commands as well as some helpful links
+This command shows a list of commands as well as some helpful links.
 ### Usage
 ```
 !!help 
