@@ -15,3 +15,6 @@ Below, we have an interactive viewing experience to see all of Emojifier's emoji
     style="height: 100%; width: 100%; border: 0;">
   </iframe>
 </div> 
+
+
+?> If you've found this from lurking at our source, it's not yet ready and we'll have news to share about it soon
