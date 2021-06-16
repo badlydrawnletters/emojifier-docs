@@ -26,6 +26,7 @@
 - [Ping](all/ping.md)
 - [Shard](all/shard.md)
 - [Stats](all/stats.md)
+- [Subscribe](all/subscribe.md)
 - [Suggest](all/suggest.md)
 - [Support](all/support.md)
 - [User Info](all/userinfo.md)
