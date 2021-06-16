@@ -1,7 +1,7 @@
 # Set Prefix
 ---
 ### Description
-This command allows staff members change the prefix for a server, by default the prefix is `!!`
+This command allows staff members change the prefix for a server, by default the prefix is `!!`.
 
 ### Usage
 ```
