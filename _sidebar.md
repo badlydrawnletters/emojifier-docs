@@ -35,7 +35,7 @@
 
 ---
 
-- ❯ **STAFF COMMANDS*8
+- ❯ **STAFF COMMANDS**
 - [Set Prefix](staff/setprefix.md)
 
 ---
