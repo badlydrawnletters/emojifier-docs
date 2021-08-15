@@ -4,7 +4,7 @@
 - [Bot and Website Status](status.md)
 
 ---
-- PUBLIC COMMANDS
+- **PUBLIC COMMANDS**
 - [Bug Report](all/bugreport.md)
 - [Changelog](all/changelog.md)
 - [Convert](all/convert.md)
@@ -35,21 +35,21 @@
 
 ---
 
-- STAFF COMMANDS
+- **STAFF COMMANDS*8
 - [Set Prefix](staff/setprefix.md)
 
 ---
 
-- SAFETY
+- **SAFETY**
 - [Reporting](safety/reporting.md)
 - [User Safety](safety/usersafety.md)
 
 ---
-- SUPPORTING THE BOT
+- **SUPPORTING THE BOT**
 - [Info](supporting/info.md)
 
 ---
-- OTHER
+- **OTHER**
 - [Blog](other/blog.md)
 - [Legal](other/legal.md)
 
