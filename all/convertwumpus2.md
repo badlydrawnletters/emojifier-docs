@@ -1,10 +1,10 @@
-# Convertwumpus2
+# Wumpus2
 ---
 ### Description
 This command is used to convert text into Wumpus letter emojis.
 ### Usage
 ```
-!!convertwumpus2 <text>
+/wumpus content: <text>
 ```
 ### Permission Required
 Anyone can use this command, unless they are blacklisted globally.
