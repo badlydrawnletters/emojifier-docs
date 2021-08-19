@@ -1,10 +1,10 @@
-# Convertghost
+# Ghost
 ---
 ### Description
 This command is used to convert text into ghost letter emojis.
 ### Usage
 ```
-!!convertghost <text>
+/ghost content: <text>
 ```
 ### Permission Required
 Anyone can use this command, unless they are blacklisted globally.
