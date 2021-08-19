@@ -4,7 +4,7 @@
 This command is used to send a suggestion to the developers.
 ### Usage
 ```
-!!suggest
+/suggest
 ```
 ### Permission Required
 Anyone can use this command, unless they are blacklisted globally.
