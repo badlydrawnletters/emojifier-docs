@@ -4,7 +4,7 @@
 - [Bot and Website Status](status.md)
 
 ---
-- ❯ **PUBLIC COMMANDS**
+- ❯ **SLASH COMMANDS**
 - [Changelog](all/changelog.md)
 - [Convert](all/convert.md)
 - [Convert Bless](all/convertbless.md)
