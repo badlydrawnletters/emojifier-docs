@@ -4,7 +4,7 @@
 This command is used to check the stats of the bot such as, response time, and guild count.
 ### Usage
 ```
-!!stats
+/stats
 ```
 
 ### Permission Required
