@@ -5,7 +5,6 @@
 
 ---
 - ❯ **PUBLIC COMMANDS**
-- [Bug Report](all/bugreport.md)
 - [Changelog](all/changelog.md)
 - [Convert](all/convert.md)
 - [Convert Bless](all/convertbless.md)
@@ -27,16 +26,10 @@
 - [Shard](all/shard.md)
 - [Stats](all/stats.md)
 - [Subscribe](all/subscribe.md)
-- [Suggest](all/suggest.md)
 - [Support](all/support.md)
 - [User Info](all/userinfo.md)
 - [Verify](all/verify.md)
 - [Vote](all/vote.md)
-
----
-
-- ❯ **STAFF COMMANDS**
-- [Set Prefix](staff/setprefix.md)
 
 ---
 
