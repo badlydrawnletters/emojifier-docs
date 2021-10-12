@@ -4,7 +4,7 @@
 This command is used to show the invite link to the bots support server.
 ### Usage
 ```
-!!support
+/support
 ```
 ### Permission Required
 Anyone can use this command, unless they are blacklisted globally.
