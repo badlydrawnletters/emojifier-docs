@@ -4,6 +4,8 @@
 ##### • Server IDs for server data (prefixes, command logging, and server-wide blacklists)
 ##### • User IDs for user data (server-wide & global bot blacklists)
 ##### • Channel IDs for channel data (command logging)
+##### • Webhooks IDs & tokens for our reposting messages (text-to-emoji feature)
+
 
 ### Who can access the data?
 #### The following people can access the data (prefixes,  command logging, server-wide blacklists, and global bot blacklists):
