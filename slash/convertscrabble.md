@@ -4,7 +4,7 @@
 This command is used to convert text into Scrabble letter emojis.
 ### Usage
 ```
-!!convertscrabble <text>
+/convertscrabble <text>
 ```
 ### Permission Required
 Anyone can use this command, unless they are blacklisted globally.
