@@ -35,6 +35,8 @@
 
 ---
 - ❯ **SLASH COMMANDS**
+<!--- - [Bug Report](slash/bugreport.md)
+- [Changelog](slash/changelog.md) -->
 - [Convert](slash/convert.md)
 - [Convert Bless](slash/convertbless.md)
 - [Convert Clap](slash/convertclap.md)
@@ -48,6 +50,18 @@
 - [Convert Scrabble](slash/convertscrabble.md)
 - [Convert Wumpus](slash/convertwumpus.md)
 - [Convert Wumpus 2](slash/convertwumpus2.md)
+<!--- - [Discovery](slash/discovery.md)
+- [Help](slash/help.md)
+- [Invite](slash/invite.md)
+- [Ping](slash/ping.md)
+- [Shard](slash/shard.md)
+- [Stats](slash/stats.md)
+- [Subscribe](slash/subscribe.md)
+- [Suggest](slash/suggest.md)
+- [Support](slash/support.md)
+- [User Info](slash/userinfo.md)
+- [Verify](slash/verify.md)
+- [Vote](slash/vote.md) -->
 
 ---
 
