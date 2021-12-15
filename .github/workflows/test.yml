@@ -1,0 +1,2 @@
+- name: Markup Link Checker (mlc)
+  uses: becheran/mlc@v0.14.0
