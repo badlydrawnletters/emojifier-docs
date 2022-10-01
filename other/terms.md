@@ -10,7 +10,7 @@
 
 
 ### How can I report a user violating the terms?
-##### • You can learn more about reporting users [here](https://emojifier.js.org/#/safety/reporting).
+##### • You can learn more about reporting users&nbsp;[here](https://emojifier.js.org/#/safety/reporting).
 
 ### I'm confused about the Terms of service?
 ##### • Feel free to join the&nbsp;[Support Server](https://discord.gg/qGvzMas) and DM BDL ModMail so we can clarify any questions you have.
