@@ -30,11 +30,6 @@
 
 ---
 
-- ❯ **STAFF COMMANDS**
-- [Set Prefix](staff/setprefix.md)
-
----
-
 - ❯ **SAFETY**
 - [Reporting](safety/reporting.md)
 - [User Safety](safety/usersafety.md)
