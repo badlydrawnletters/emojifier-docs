@@ -1,6 +1,6 @@
 # Terms of Service  Information
 ### What are the Terms of Service for Emojifier?
-#### You may not do the following:
+### You may not do the following:
 ##### • Harass users, make threats against users, or use the bot to violate laws or regulations
 
 ### You must abide by the following:
