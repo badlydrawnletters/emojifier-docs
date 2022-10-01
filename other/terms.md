@@ -4,8 +4,8 @@
 ##### • Harass users, make threats against users, or use the bot to violate laws or regulations
 
 ### You must abide by the following:
-##### • [Discord's Terms of Service](https://discord.com/terms)
-##### • [Discord's Community Guidelines](https://discord.com/guidelines)
+##### • &nbsp;[Discord's Terms of Service](https://discord.com/terms)
+##### • &nbsp;[Discord's Community Guidelines](https://discord.com/guidelines)
 
 
 
