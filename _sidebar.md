@@ -75,6 +75,7 @@
 ---
 - ❯ **OTHER**
 - [Blog](other/blog.md)
-- [Legal](other/legal.md)
+- [Privacy](other/privacy.md)
+- [Terms](other/terms.md)
 
 ---
