@@ -1,7 +1,7 @@
 # Changelog
 ---
 ### Description
-This command is used to information about the bot's recent update and any announcements from the developers
+This command is used to information about the bots recent update and any announcements from the developers
 ### Usage
 ```
 !!changelog 
