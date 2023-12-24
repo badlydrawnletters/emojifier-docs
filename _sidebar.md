@@ -40,7 +40,6 @@
 
 ---
 - ❯ **OTHER**
-- [Blog](other/blog.md)
 - [Privacy](other/privacy.md)
 - [Terms](other/terms.md)
 
