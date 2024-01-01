@@ -28,7 +28,7 @@
 **Bots on Discord**
 
 [![Bots On Discord widget](https://bots.ondiscord.xyz/bots/673994042450903089/embed?showGuilds=true)](https://bots.ondiscord.xyz/bots/673994042450903089)
-[Leave a review here](https://bots.ondiscord.xyz/bots/673994042450903089/review) and tell us what you think about the bot! (Please note that reviewing doesn't work since the bot isn't approved on the bot list)
+[Leave a review here](https://bots.ondiscord.xyz/bots/673994042450903089/review) and tell us what you think about the bot!
 
 
 **Discord Extreme List**
