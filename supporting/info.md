@@ -14,6 +14,7 @@
 ### Top.gg
 
 [![Top.gg Widget](https://discordbots.org/api/widget/673994042450903089.svg)](https://discordbots.org/bot/673994042450903089)
+
 [Click here to vote!](https://top.gg/bot/673994042450903089/vote)
 
 
@@ -24,6 +25,7 @@
 ### Discord Bot List
 
 [![Discord Bot List widget](https://discordbotlist.com/api/bots/673994042450903089/widget)](https://discordbotlist.com/bots/673994042450903089)
+
 [Click here to vote!](https://discordbotlist.com/bots/673994042450903089/upvote)
 
 
