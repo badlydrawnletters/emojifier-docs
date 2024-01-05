@@ -9,7 +9,6 @@
 - [Bless](slash/bless.md)
 - [Changelog](slash/changelog.md)
 - [Convert](slash/convert.md)
-- [Bless](slash/bless.md)
 - [Dancing](slash/dancing.md)
 - [Default](slash/default.md)
 - [Discovery](slash/discovery.md)
