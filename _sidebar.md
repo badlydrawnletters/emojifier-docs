@@ -22,6 +22,7 @@
 - [Ping](slash/ping.md)
 - [Scrabble](slash/scrabble.md)
 - [Stats](slash/stats.md)
+- [Subscribe](slash/subscribe.md)
 - [Suggest](slash/suggest.md)
 - [Support](slash/support.md)
 - [Vote](slash/vote.md)
