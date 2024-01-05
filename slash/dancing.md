@@ -10,6 +10,6 @@ This command is used to convert text into dancing letter emojis.
 Anyone can use this command, unless they are blacklisted globally.
 
 ### Example image
-![convert dancing](../images/convertdancing.PNG)
+![convert dancing](../images/convertdancing.png)
 
 ?> You must have an active [Discord Nitro](https://discord.com/nitro) subscription to use these emojis in other servers

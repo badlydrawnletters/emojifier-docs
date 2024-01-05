@@ -10,4 +10,4 @@ This command is used view all of Emojifier's emoji partners.
 Anyone can use this command, unless they are blacklisted globally.
 
 ### Example image
-![convert example](../images/convert.PNG)
+![convert example](../images/discovery.png)
