@@ -15,7 +15,6 @@
 - [Discovery](slash/discovery.md)
 - [Doggo](slash/doggo.md)
 - [Ghost](slash/ghost.md)
-- [Help](slash/help.md)
 - [Invite](slash/invite.md)
 - [Kitty](slash/kitty.md)
 - [OhNo](slash/ohno.md)

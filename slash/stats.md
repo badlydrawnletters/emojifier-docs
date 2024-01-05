@@ -1,7 +1,7 @@
 # Stats
 ---
 ### Description
-This command is used to check the stats of the bot such as, response time, and guild count.
+This command is used to check the bot's statistics, such as response time and guild count.
 ### Usage
 ```
 /stats
