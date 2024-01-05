@@ -1,7 +1,7 @@
 # Convertbless
 ---
 ### Description
-This command is used to convert text into Bless letter emojis.
+This command is used to convert text into bless letter emojis.
 ### Usage
 ```
 /bless content:<text>

@@ -1,7 +1,7 @@
 # Convertscrabble
 ---
 ### Description
-This command is used to convert text into Scrabble letter emojis.
+This command is used to convert text into scrabble letter emojis.
 ### Usage
 ```
 /scrabble content:<text>

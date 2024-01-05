@@ -1,7 +1,7 @@
 # Convertkitty
 ---
 ### Description
-This command is used to convert text into Kitty letter emojis.
+This command is used to convert text into kitty letter emojis.
 ### Usage
 ```
 /kitty content:<text>
