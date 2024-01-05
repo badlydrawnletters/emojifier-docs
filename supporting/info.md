@@ -1,6 +1,6 @@
 # Supporting the Bot
 ---
-#### The best way to support the bot is by voting for it on bot lists. If you are in the&nbsp;[Support Server](https://discord.gg/MTwj6wG), you can get rewards for voting! (Rewards system is coming soon™️)
+#### The best way to support the bot is by voting for it on bot lists. If you are in the&nbsp;[Support Server](https://discord.gg/MTwj6wG), you'll recieve the Emojifier Supporter role for 24 hours!
 ### Discords.com
 
 [Click here to vote!](https://discords.com/bots/bot/673994042450903089)
