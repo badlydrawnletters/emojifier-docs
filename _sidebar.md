@@ -5,7 +5,7 @@
 
 ---
 
-- ❯ **SLASH COMMANDS**
+- ❯ **COMMANDS**
 - [Bless](slash/bless.md)
 - [Changelog](slash/changelog.md)
 - [Convert](slash/convert.md)

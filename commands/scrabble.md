@@ -1,15 +1,15 @@
-# Convertbless
+# Scrabble
 ---
 ### Description
-This command is used to convert text into bless letter emojis.
+This command is used to convert text into scrabble letter emojis.
 ### Usage
 ```
-/bless content:<text>
+/scrabble content:<text>
 ```
 ### Permission Required
 Anyone can use this command, unless they are blacklisted globally.
 
 ### Example image
-![convert example](../images/convertbless.png)
+![convert example](../images/convertscrabble.png)
 
 ?> You must have an active [Discord Nitro](https://discord.com/nitro) subscription to use these emojis in other servers

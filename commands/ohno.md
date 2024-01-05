@@ -1,4 +1,4 @@
-# Convertohno
+# OhNo
 ---
 ### Description
 This command is used to convert text into OhNo letter emojis.

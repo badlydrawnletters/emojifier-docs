@@ -1,4 +1,4 @@
-# Convertdefault
+# Default
 ---
 ### Description
 This command is used to convert text into the default discord text emojis.
