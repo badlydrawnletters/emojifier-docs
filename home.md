@@ -7,6 +7,3 @@
 Emojifier, a Discord bot that focuses on enhancing a users chat experience. We have many commands to help make your chatting experience fun and enjoyable. 
 
 ?> Emojifier is a slash commands only bot. What does this mean? This means that you won't have to fiddle around with a prefix to use the bot, just type `/` and click the bots icon to start using its commands!
-
-Emojifier is partnered with PebbleHost. Thanks to PebbleHost for providing us with hosting! You can checkout their website [here](https://pebblehost.com).
-![logo](/images/pebblehost_logo.webp)
