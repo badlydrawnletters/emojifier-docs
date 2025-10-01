@@ -1,7 +1,7 @@
 # Discovery
 ---
 ### Description
-This command is used view all of Emojifier's emoji partners.
+This command is used view to all of Emojifier's emoji partners.
 ### Usage
 ```
 /discovery
