@@ -6,7 +6,7 @@
 
 ---
 
-- ❯ **COMMANDS**
+- ❯ **SLASH COMMANDS**
 - [Bless](commands/bless.md)
 - [Changelog](commands/changelog.md)
 - [Convert](commands/convert.md)
@@ -30,6 +30,11 @@
 - [Wumpus](commands/wumpus.md)
 - [Wumpus 2](commands/wumpus2.md)
 
+---
+
+- ❯ **CONTEXT COMMANDS**
+- [Convert](context/convert.md)
+  
 ---
 
 - ❯ **SAFETY**
