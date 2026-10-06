@@ -1,18 +1,19 @@
-# How to Properly Report Issues to our Team
+# How to Report Issues to Our Team
 ---
 ### What can be reported?
-Anything that violates [Discord's Terms of Service](https://discord.com/terms) and/or [Community Guidelines](https://discord.com/guidelines) can be reported to our team. However, if this is happening outside of our bot we are **unable** to take action on this, but Discord's Trust & Safety Team can handle this issue. Please report the user at [this](https://dis.gd/request) link and read [this](https://dis.gd/howtoreport) on how to report.
+You can report violations of [Discord's Terms of Service](https://discord.com/terms) or [Community Guidelines](https://discord.com/guidelines) that occur while using Emojifier. For issues outside Emojifier, follow [Discord's reporting instructions](https://dis.gd/howtoreport).
 
-!> We **cannot** take **any** action on the users account itself, this is something that Discord's Trust & Safety can handle. We are **only** able to remove the bots (Emojifiers) message and/or blacklist the user from using the bot.
+> [!NOTE]
+> We **cannot** take action on a user's Discord account. Discord's Trust & Safety team handles account enforcement. We can remove Emojifier's messages or blacklist the user from using the bot.
 
-### How to properly report issues to our team?
-* First head over to this [link](https://emojifier.zendesk.com/hc/en-us/requests/new?ticket_form_id=360001109091)
-* Then fill out all the details
-* Be sure to include your email address to confirm that we've received your abuse report
-* Then click "Submit Request"
-* That's all, be sure to check your email for an update in case we need more information!
+### How do I report an issue to the team?
 
-?> Our team takes action within 24 hours of every report and we can only take action on issues that occur while using our bot.
+1. Open our [abuse report form](https://emojifier.zendesk.com/hc/en-us/requests/new?ticket_form_id=360001109091).
+2. Fill out the details, including your email address so we can confirm receipt of your report.
+3. Click **Submit Request**.
+4. Check your email for updates or requests for more information.
+
+> [!NOTE]
+> Our team takes action within 24 hours of every report and we can only take action on issues that occur while using our bot.
 
 ![safety](../images/safety.png)
-

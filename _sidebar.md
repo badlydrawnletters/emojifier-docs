@@ -6,7 +6,7 @@
 
 ---
 
-- ❯ **SLASH COMMANDS**
+- ❯ **Slash Commands**
 - [Bless](commands/bless.md)
 - [Changelog](commands/changelog.md)
 - [Convert](commands/convert.md)
@@ -15,6 +15,7 @@
 - [Discovery](commands/discovery.md)
 - [Doggo](commands/doggo.md)
 - [Ghost](commands/ghost.md)
+- [Insights](commands/insights.md)
 - [Invite](commands/invite.md)
 - [Keycap](commands/keycap.md)
 - [Kitty](commands/kitty.md)
@@ -32,22 +33,22 @@
 
 ---
 
-- ❯ **CONTEXT COMMANDS**
+- ❯ **Context Commands**
 - [Convert](context/convert.md)
   
 ---
 
-- ❯ **SAFETY**
+- ❯ **Safety**
 - [Reporting](safety/reporting.md)
 - [User Safety](safety/usersafety.md)
 
 ---
-- ❯ **SUPPORTING THE BOT**
+- ❯ **Supporting Emojifier**
 - [Info](supporting/info.md)
 
 ---
-- ❯ **OTHER**
-- [Privacy](other/privacy.md)
-- [Terms](other/terms.md)
+- ❯ **Policies**
+- [Privacy](policies/privacy.md)
+- [Terms](policies/terms.md)
 
 ---

@@ -7,7 +7,7 @@ This command is used to view all of Emojifier's emoji partners.
 /discovery
 ```
 ### Permission Required
-Anyone can use this command, unless they are blacklisted globally.
+Anyone can use this command unless they are globally blacklisted.
 
 ### Example image
-![convert example](../images/discovery.gif)
+![Discovery command example](../images/discovery.gif)

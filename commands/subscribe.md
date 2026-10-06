@@ -1,16 +1,17 @@
 # Subscribe
 ---
 ### Description
-This command is used to subscribe to Emojifiers bot updates & announcements.
+This command is used to subscribe to Emojifier's bot updates and announcements.
 ### Usage
 ```
 /subscribe
 ```
 ### Permission Required
-Any user with the Administrator or Manage Server permission can use this command. However, this can be manually overriden through the bots integration settings.
+Any user with the Administrator or Manage Webhooks permission can use this command. However, this can be manually overridden through the bot's integration settings.
 
-### Example image
+### Example images
 ![subscribe example](../images/subscribe_success.png)
 ![command management example](../images/subscribe_manage.png)
 
-?> You must have the Administrator permission in order to edit the command permissions. Please view [this](https://support.discord.com/hc/en-us/articles/4644915651095-Command-Permissions) article for more information on command permissions.
+> [!IMPORTANT]
+> On desktop, open **Server Settings → Integrations** and select Emojifier to edit command permissions. See [Discord's Command Permissions article](https://support-apps.discord.com/hc/en-us/articles/26501869403159-Command-Permissions) for more information.
