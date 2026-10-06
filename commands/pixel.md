@@ -1,15 +1,16 @@
-# Scrabble
+# Pixel
 ---
 ### Description
 This command is used to convert text into pixel letter emojis.
 ### Usage
 ```
-/pixel content:<text>
+/pixel content: <text>
 ```
 ### Permission Required
-Anyone can use this command, unless they are blacklisted globally.
+Anyone can use this command unless they are globally blacklisted.
 
 ### Example image
-![convert example](../images/convertpixel.png)
+![Pixel command example](../images/convertpixel.png)
 
-?> You must have an active [Discord Nitro](https://discord.com/nitro) subscription to use these emojis in other servers
+> [!TIP]
+> You must have an active [Discord Nitro](https://discord.com/nitro) subscription to use these emojis in other servers.

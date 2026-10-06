@@ -1,105 +1,205 @@
 <!doctype html>
 <html lang="en">
-
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover">
-    <title>Emojifier Docs</title>
-    <link rel="icon" type="image/ico" href="/images/favicon.ico">
-    <meta property="og:site_name" content="Emojifier Docs">
-    <meta property="twitter:card" content="summary_large_image">
-    <meta name="description" content="The official documentation for the verified Emojifier Discord bot ">
-    <meta name="theme-color" content="#7289da">
-    <meta property="og:title" content="Emojifier Docs">
-    <meta property="og:description" content="The official documentation for the verified Emojifier Discord bot">
-    <meta property="og:url" content="https://emojifier.js.org">
-    <meta property="og:image" content="/images/logo.png">
-    <meta property="og:image:type" content="image/png">
-  <link 
-    rel="stylesheet"
-    href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css"
-    type="text/css"
-  />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="description" content="Learn how to use Emojifier's Discord slash commands, user app, and safety features.">
+  <meta name="theme-color" content="#313338">
+  <meta property="og:site_name" content="Emojifier Docs">
+  <meta property="og:title" content="Emojifier Docs">
+  <meta property="og:description" content="Documentation for the Emojifier Discord bot">
+  <meta property="og:url" content="https://emojifier.js.org">
+  <meta property="og:image" content="https://emojifier.js.org/images/logo.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <title>Emojifier Docs</title>
+  <link rel="icon" href="/images/favicon.ico" sizes="any">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@5.0.0/dist/themes/core.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@5.0.0/dist/themes/addons/core-dark.min.css">
   <style>
-    nav.app-nav li ul {
-      min-width: 100px;
+    :root {
+      --theme-color: #7289DA;
+      --color-bg: #313338;
+      --color-text: #dbdee1;
+      --strong-color: #f2f3f5;
+      --heading-color: #f2f3f5;
+      --border-color: #3f4147;
+      --sidebar-bg: #2b2d31;
+      --sidebar-border-color: #232428;
+      --sidebar-link-color: #b5bac1;
+      --sidebar-group-title-color: #949ba4;
+      --form-element-bg: #1e1f22;
+      --form-element-border-color: #1e1f22;
+      --form-element-color: #f2f3f5;
+      --form-element-border-radius: 4px;
+      --sidebar-toggle-bg: #404249;
+      --sidebar-toggle-color: #b5bac1;
+    }
+
+    body.loading:has(#app)::before {
+      top: calc(50% - 3rem);
+    }
+
+    .sidebar-nav > ul > li > p {
+      color: #949ba4;
+      font-size: 0.8rem;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+
+    .markdown-section .docsify-pagination-container {
+      border-top-color: var(--border-color);
+      margin-top: 4rem;
+    }
+
+    .markdown-section pre[data-lang="markup"]::after {
+      display: none;
+    }
+
+    .site-footer {
+      color: #949ba4;
+      font-size: 0.9rem;
+      margin: 4rem 0 2rem;
+      text-align: center;
+    }
+
+    .site-footer a {
+      color: var(--theme-color);
+      font-weight: 600;
+      text-decoration: none;
+    }
+
+    .markdown-section:has(.emojifier-404) .docsify-pagination-container {
+      display: none;
+    }
+
+    .emojifier-404 {
+      padding-top: 1rem;
+      text-align: center;
+    }
+
+    .markdown-section .emojifier-404 > p {
+      max-width: 42ch;
+      margin: 0 auto 1.5rem;
+      line-height: 1.6;
+    }
+
+    .emojifier-404-art {
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: clamp(0.5rem, 2vw, 1.5rem);
+      isolation: isolate;
+      max-width: 640px;
+      margin: 0 auto 1.5rem;
+      padding: 1rem 0;
+    }
+
+    .emojifier-404-art::before {
+      position: absolute;
+      inset: -1rem 0;
+      z-index: -1;
+      background: url('/images/sparkles2.svg') center / contain no-repeat;
+      opacity: 0.55;
+      content: '';
+    }
+
+    .emojifier-404-digit {
+      color: #8ea5ff;
+      font-size: clamp(4rem, 14vw, 10rem);
+      font-weight: 900;
+      line-height: 1;
+      text-shadow: 0 6px 0 #3e4981;
+      transform: rotate(-8deg);
+    }
+
+    .emojifier-404-digit:last-child {
+      transform: rotate(8deg);
+    }
+
+    .markdown-section .emojifier-404-mascot {
+      display: block;
+      flex: 0 0 auto;
+      width: clamp(116px, 20vw, 220px);
+      height: auto;
+      margin: 0;
+      filter: drop-shadow(0 12px 18px rgb(0 0 0 / 20%));
+    }
+
+    .markdown-section .emojifier-404-support {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.6rem;
+      box-sizing: border-box;
+      max-width: 100%;
+      min-height: 48px;
+      padding: 0.85rem 1.2rem;
+      border-radius: 10px;
+      background: #7289DA;
+      color: #fff;
+      font-size: 0.95rem;
+      font-weight: 700;
+      text-decoration: none;
+      box-shadow: 0 6px 18px rgb(114 137 218 / 20%);
+    }
+
+    .markdown-section .emojifier-404-support:hover {
+      background: #677BC4;
+    }
+
+    .emojifier-404-support svg {
+      flex-shrink: 0;
+    }
+
+    .markdown-section .emojifier-404-support:focus-visible {
+      outline: 3px solid #b3bcff;
+      outline-offset: 4px;
     }
   </style>
 </head>
-
-<body>
-  <div id="app">Loading Emojifier docs...</div>
+<body class="loading sidebar-chevron-right sidebar-group-underline sidebar-toggle-hamburger">
+  <div id="app">Loading Emojifier Docs...</div>
   <script>
     window.$docsify = {
-      search: 'auto', // default
-      search : [
-        '/',
-      ],
-        
-      plugins: [
-        function(hook) {
-          var footer = [
-            '<footer style="text-align: center;margin-top: 50px;">',
-            '<span></path></svg><a href="https://discord.gg/MTwj6wG" target="_blank">Emojifier Team</a>  &copy; 2025 </span>',
-            '</footer>'
-          ].join('');
-
-          hook.afterEach(function(html) {
-            return html + footer;
-          });
-        }
-      ],
-      auto2top: true,
-      repo: 'https://github.com/badlydrawnletters/emojifier-docs',
-      executeScript: true,
-      loadSidebar: true,
-      loadNavbar: true,
-      maxLevel: 4,
-      subMaxLevel: 3,
       name: 'Emojifier Docs',
       logo: '/images/logo.png',
       homepage: 'home.md',
-      search: {
-        noData: {
-          '/': 'No results!'
-        },
-        paths: 'auto',
-        placeholder: {
-          '/': 'Search'
-        }
-        
-        },
-        darklightTheme: {
-            dark: {
-                background: '#23272A',
-                codeBackgroundColor: '#2f3136'
-            },
-            light: {
-                background: '#ffffff'
-            }
+      alias: {
+        '/other/(privacy|terms)(?:[.]md)?': '/policies/$1.md'
       },
-      formatUpdated: '{MM}/{DD} {HH}:{mm}',
-      
-    }
-    
+      loadSidebar: true,
+      loadNavbar: true,
+      mergeNavbar: true,
+      notFoundPage: true,
+      auto2top: true,
+      maxLevel: 3,
+      subMaxLevel: 2,
+      pagination: {
+        previousText: 'PREVIOUS',
+        nextText: 'NEXT',
+        crossChapter: true
+      },
+      search: {
+        paths: 'auto',
+        depth: 3,
+        placeholder: 'Search the docs',
+        noData: 'No results found'
+      },
+      plugins: [
+        function (hook) {
+          hook.afterEach(function (html) {
+            return html + '<footer class="site-footer"><a href="https://discord.gg/MTwj6wG" target="_blank" rel="noopener noreferrer">Emojifier Team</a> &copy; ' + new Date().getFullYear() + '</footer>';
+          });
+        }
+      ]
+    };
   </script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-bash.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-markdown.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-nginx.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"type="text/javascript">
-
-  </script>
-
-<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "51c653b624534cc5bdac37d6910e75b5"}'></script><!-- End Cloudflare Web Analytics -->
-
-<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "918b802ec4644387be642b61beb8fc9e"}'></script><!-- End Cloudflare Web Analytics -->
-
-<script src="https://7b219pdblnt9.statuspage.io/embed/script.js"></script>
-
+  <script src="https://cdn.jsdelivr.net/npm/docsify@5.0.0/dist/docsify.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@5.0.0/dist/plugins/search.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-pagination@2.10.1/dist/docsify-pagination.min.js"></script>
+  <script async src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token":"51c653b624534cc5bdac37d6910e75b5"}'></script>
+  <script async src="https://7b219pdblnt9.statuspage.io/embed/script.js"></script>
 </body>
-
 </html>

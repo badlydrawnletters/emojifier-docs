@@ -1,6 +1,6 @@
 # Supporting the Bot
 ---
-#### The best way to support the bot is by voting for it on bot lists. If you are in the&nbsp;[Support Server](https://discord.gg/MTwj6wG), you'll recieve the Emojifier Supporter role for 24 hours!
+#### The best way to support the bot is by voting for it on bot lists. If you are in the&nbsp;[Support Server](https://discord.gg/MTwj6wG), you'll receive the Emojifier Supporter role for 72 hours!
 ### Discords.com
 
 [Click here to vote!](https://discords.com/bots/bot/673994042450903089)
@@ -13,7 +13,7 @@
 
 ### Top.gg
 
-[![Top.gg Widget](https://discordbots.org/api/widget/673994042450903089.svg)](https://discordbots.org/bot/673994042450903089)
+[![Top.gg widget](https://top.gg/api/widget/673994042450903089.svg)](https://top.gg/bot/673994042450903089)
 
 [Click here to vote!](https://top.gg/bot/673994042450903089/vote)
 
@@ -39,4 +39,3 @@
 ### Discord Extreme List
 
 [Click here to vote!](https://discordextremelist.xyz/bots/673994042450903089/upvote)
-

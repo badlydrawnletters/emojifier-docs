@@ -7,9 +7,10 @@ This command is used to send a suggestion to the developers.
 /suggest
 ```
 ### Permission Required
-Anyone can use this command, unless they are blacklisted globally.
+Anyone can use this command unless they are globally blacklisted.
 
-### Example image 
+### Example image
 ![suggest example](../images/suggestion.png)
 
-!> Abuse of this command may result in removal of suggestion privileges
+> [!CAUTION]
+> Abuse of this command may result in removal of suggestion privileges.

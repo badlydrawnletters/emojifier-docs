@@ -4,12 +4,13 @@
 This command is used to convert text into dancing letter emojis.
 ### Usage
 ```
-/dancing content:<text>
+/dancing content: <text>
 ```
 ### Permission Required
-Anyone can use this command, unless they are blacklisted globally.
+Anyone can use this command unless they are globally blacklisted.
 
 ### Example image
-![convert dancing](../images/convertdancing.png)
+![Dancing command example](../images/convertdancing.png)
 
-?> You must have an active [Discord Nitro](https://discord.com/nitro) subscription to use these emojis in other servers
+> [!TIP]
+> You must have an active [Discord Nitro](https://discord.com/nitro) subscription to use these emojis in other servers.

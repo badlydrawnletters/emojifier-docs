@@ -12,10 +12,8 @@
 </p>
 
 # Documentation
-Emojifier, a Discord bot that focuses on enhancing a users chat experience. We have many commands to help make your chatting experience fun and enjoyable.
+Emojifier is a Discord bot that focuses on enhancing a user's chat experience. We have many commands to help make your chatting experience fun and enjoyable.
 
-> ![Example image](https://techy.hep.gg/KVyIIkOG6)
+![Emojifier's context menu, emoji partners, suggestion form, and text conversion](images/emojifier-overview.png)
 
- If you have any questions or concerns regarding Emojifier and/or our documentation feel free to reach out to us via our support server:
-
-<img src="https://inv.wtf/widget/bdl?format=png" width="600" height="150">
+If you have questions or concerns about Emojifier or our documentation, please join our [support server](https://discord.gg/MTwj6wG).

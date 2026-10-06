@@ -1,13 +1,13 @@
 # Default
 ---
 ### Description
-This command is used to convert text into the default discord text emojis.
+This command is used to convert text into the default Discord text emojis.
 ### Usage
 ```
-/default content:<text>
+/default content: <text>
 ```
 ### Permission Required
-Anyone can use this command, unless they are blacklisted globally.
+Anyone can use this command unless they are globally blacklisted.
 
 ### Example image
-![convert example](../images/convertdefault.png)
+![Default command example](../images/convertdefault.png)
