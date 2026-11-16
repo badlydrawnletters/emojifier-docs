@@ -37,6 +37,7 @@
     form.dataset.initialized = 'true';
 
     var fields = form.elements;
+    var idHint = document.getElementById('report-id-hint');
     var messages = document.getElementById('report-messages');
     var previewHint = document.getElementById('report-preview-hint');
     var renderedText;
@@ -92,6 +93,7 @@
 
     function renderPreview() {
       var target = value('reportTarget');
+      idHint.hidden = !target;
       form.querySelectorAll('[data-report-target]').forEach(function (group) {
         group.hidden = group.dataset.reportTarget !== target;
         group.disabled = group.hidden;
