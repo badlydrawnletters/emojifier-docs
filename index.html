@@ -15,6 +15,7 @@
   <link rel="icon" href="/images/favicon.ico" sizes="any">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@5.0.0/dist/themes/core.min.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@5.0.0/dist/themes/addons/core-dark.min.css">
+  <link rel="stylesheet" href="/assets/reporting.css">
   <style>
     :root {
       --theme-color: #7289DA;
@@ -52,6 +53,14 @@
       margin-top: 4rem;
     }
 
+    .markdown-section .docsify-pagination-container .pagination-item :is(.pagination-item-label, .pagination-item-title, .pagination-item-subtitle) {
+      opacity: 1;
+    }
+
+    .markdown-section .docsify-pagination-container .pagination-item-label {
+      color: var(--sidebar-link-color);
+    }
+
     .markdown-section pre[data-lang="markup"]::after {
       display: none;
     }
@@ -64,7 +73,7 @@
     }
 
     .site-footer a {
-      color: var(--theme-color);
+      color: #8ea5ff;
       font-weight: 600;
       text-decoration: none;
     }
@@ -196,6 +205,7 @@
       ]
     };
   </script>
+  <script src="/assets/reporting.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@5.0.0/dist/docsify.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@5.0.0/dist/plugins/search.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-pagination@2.10.1/dist/docsify-pagination.min.js"></script>
