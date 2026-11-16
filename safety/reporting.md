@@ -21,13 +21,13 @@ You can report violations of [Discord's Terms of Service](https://discord.com/te
   <p class="report-builder__hint">All fields are required unless marked optional.</p>
   <div class="report-builder__field">
     <label for="report-target">What are you reporting?</label>
-    <select id="report-target" name="reportTarget" required aria-controls="report-user-details report-server-details">
+    <select id="report-target" name="reportTarget" required aria-controls="report-id-hint report-user-details report-server-details">
       <option value="">Select one</option>
       <option value="reporting_user">A user</option>
       <option value="reporting_server">A server</option>
     </select>
   </div>
-  <p class="report-builder__hint">Copy the ID from Discord. <a href="https://dis.gd/findmyid" target="_blank" rel="noopener noreferrer">How to find IDs</a></p>
+  <p id="report-id-hint" class="report-builder__hint" hidden>Copy the ID from Discord. <a href="https://dis.gd/findmyid" target="_blank" rel="noopener noreferrer">How to find IDs</a></p>
   <fieldset id="report-user-details" data-report-target="reporting_user" hidden disabled>
     <legend>User details</legend>
     <div class="report-builder__field">
